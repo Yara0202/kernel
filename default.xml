@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <default revision="refs/heads/nightly"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+
+  <!-- CraftRom Projects -->
+  <project path="kernel" name="CraftRom/kernel" />
+  <project path="chidori/onclite" name="CraftRom/kernel_xiaomi_onclite" />
+  <project path="chidori/surya" name="CraftRom/Chidori-Kernel_surya" />
+  
+</manifest>

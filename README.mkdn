@@ -1,0 +1,21 @@
+CraftRom
+===========
+
+Getting started
+---------------
+
+To initialize your local repository using the LineageOS trees, use a command like this:
+```
+repo init -u https://github.com/CraftRom/kernel -b nightly
+```
+Then to sync up:
+```
+repo sync
+```
+
+Buildbot
+--------
+
+All supported devices are built weekly and periodically as changes are committed to ensure the source trees remain buildable.
+
+You can view the current build statuses at [CraftRom Buildkite](https://buildkite.com/craftrom).
