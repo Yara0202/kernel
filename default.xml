@@ -14,6 +14,7 @@
   <!-- CraftRom Projects -->
   <project path="kernel" name="CraftRom/kernel" />
   <project path="chidori/onclite" name="CraftRom/kernel_xiaomi_onclite" />
+  <project path="chidori/olives" name="CraftRom/Chidori-Kernel_olive" />
   <project path="chidori/surya" name="CraftRom/Chidori-Kernel_surya" />
   
 </manifest>
