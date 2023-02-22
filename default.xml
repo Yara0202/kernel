@@ -12,9 +12,9 @@
            sync-j="8" />		   
 
   <!-- CraftRom Projects -->
-  <project path="kernel" name="CraftRom/kernel" />
-  <project path="chidori/onclite" name="CraftRom/Chidori-Kernel_onclite" />
-  <project path="chidori/olives" name="CraftRom/Chidori-Kernel_olives" />
-  <project path="chidori/surya" name="CraftRom/Chidori-Kernel_surya" />
+  <project path="kernel" name="Yara0202/kernel" />
+  <project path="chidori/X01AD" name="Yara0202/Chidori-Kerne" />
+
+
   
 </manifest>
